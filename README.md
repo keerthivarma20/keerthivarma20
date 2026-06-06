@@ -50,7 +50,6 @@ I enjoy building practical software — from access control systems to smart boo
 
 ![Keerthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keerthivarma20&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthivarma20&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 📫 Connect with Me
